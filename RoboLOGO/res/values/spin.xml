@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alakzatok">
+        <item>Sokszög</item>
+        <item>Téglalap</item>
+        <item>Négyzet</item>
+    </string-array>
+</resources>

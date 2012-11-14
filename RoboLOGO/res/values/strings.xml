@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">RoboLOGO</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_robo_logo">RoboLOGO</string>
+    <string name="title_activity_menu">Menu</string>
+    <string name="title_activity_main_menu">MainMenu</string>
+    <string name="title_activity_kezdo">Kezdo</string>
+    <string name="title_activity_halado">Halado</string>
+    <string name="title_activity_egyszeru">Egyszeru</string>
+
+</resources>
